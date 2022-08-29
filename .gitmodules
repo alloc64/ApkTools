@@ -1,0 +1,3 @@
+[submodule "AndroidXmlCoder"]
+	path = AndroidXmlCoder
+	url = git@github.com:alloc64/AndroidXmlCoder.git

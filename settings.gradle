@@ -1,0 +1,3 @@
+include ':ApkTools', 'AndroidXmlCoder'
+
+project(':AndroidXmlCoder').projectDir=new File('./AndroidXmlCoder/AndroidXmlCoder')
